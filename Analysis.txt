@@ -1,0 +1,30 @@
+Requirement Analysis
+
+- Create the following Slicers
+  - Year
+  - Quater
+  - Short Month
+  - ISO Week No.
+- Create the following CARD Visuals
+  - Total Purchase
+  - Total Quantity
+  - Total POs
+  
+- Visauls
+  - Total Purchase by Buying Package( Donut Chart)
+  - Total PoS of Buying Package (Donut Chart)
+  - Total Purchase by Color (Vertical Bar Graph)
+  - Total Purchases & PoS by Month (Line & Cluster Column Chart)
+  - Table Showing Supplier,Total Purchase, Total PoS, Total Quantity (Matrix Table)
+  - Table Showing Top 10 Items ordered as Stock Item and Total Purchase as Sales(Matrix Table)
+
+
+DAX Measures to be created
+
+- Outer Order
+- Received Outer
+- Total Final PO
+- Total Non Final PO
+- Total PoS
+- Total Purchase
+- Total Quantity
